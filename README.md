@@ -1,4 +1,4 @@
-# module-Joomla-AI_ollama_chat_v0.8_J3.0-J3.6.x
+# Module-Joomla-AI_ollama_chat_v0.8_J3.0-J3.6.x
 Detail : https://jokovlog.my.id/produkku/412-modul-open-webui-chat-bot-ai-joomla.html
 Ollama Chat Assistant Module for Joomla. This Joomla module integrates an AI chatbot powered by the Ollama API (local or cloud-based), supporting various AI models like Llama3 and Mistral.
 🧩 Features
@@ -43,3 +43,4 @@ chatbox.css / chatbox.js — UI and interactivity
 en-GB.mod_ollama_chat.ini/sys.ini — Language files
 
 Create : joko Supriyanto
+Video instalation : https://www.youtube.com/watch?v=cJyrLiiLwYU
