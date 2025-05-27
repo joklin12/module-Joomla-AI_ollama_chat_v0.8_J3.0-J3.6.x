@@ -11,7 +11,7 @@ Works with Joomla 3.0–3.6
 
 ⚙️ Requirements
 Component	Min Version
-Joomla	3.0+
+Joomla	3.0+-3.6.xx
 PHP	5.x
 PHP Extensions	cURL, JSON
 Ollama Server	v0.1.20+
