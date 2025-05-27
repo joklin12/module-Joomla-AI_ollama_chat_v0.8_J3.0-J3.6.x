@@ -43,5 +43,5 @@ chatbox.css / chatbox.js — UI and interactivity
 en-GB.mod_ollama_chat.ini/sys.ini — Language files
 
 Create : joko Supriyanto
-[Video instalation :] https://www.youtube.com/watch?v=cJyrLiiLwYU
-🙏 Thanks to [Universitas Siber Muhammadiyah – SiberMu](https://sibermu.ac.id)
+[Video instalation :] (https://www.youtube.com/watch?v=cJyrLiiLwYU)
+🙏 Thanks to [Universitas Siber Muhammadiyah – SiberMu] (https://sibermu.ac.id)
